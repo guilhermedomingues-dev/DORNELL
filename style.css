@@ -1,0 +1,266 @@
+*{ box-sizing: border-box;}
+
+body{
+    background-image: url(image1.png);
+     background-repeat: no-repeat;
+     background-size: 100%;
+     background-position: 50% 60%;
+     margin: 0;
+}
+table{
+    height: 100vb;
+    width: 100%;
+}
+.logoSize{
+    height: 100%;
+}
+#tamanho180{
+    height: 180px;
+}
+.largura180{
+    width: 180px;
+}
+.tamanhoTdLogo{
+    width: 180px; height: 180px;
+    background-color: #FFB300;
+}
+.tamanhoTdEspaco{
+    width: 300px;
+}
+.amareloTransparente{
+    background-color: rgba(255, 179, 0, 0.7);
+}
+.verdeTransparente{
+    background-color: rgba(56, 142, 60, 0.7);
+}
+#tamanho80{
+    height: 80px;
+}
+.tamanhoTitulo{
+    font-size: 128px;
+    font-family: "Russo One";
+    color: #FFB300;
+    position: absolute;
+    top: 20%;
+}
+.russo-one-regular {
+    font-family: "Russo One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+.tamanhoSub{
+    font-size: 40px;
+    font-family: "Russo One";
+    color: #388E3C;
+    position: absolute;
+    top: 40%;
+}
+.btnCor1{
+    background-color: #235A26;
+    color: white;
+    border-radius: 100px;
+    border: none;
+}
+.btnCor2{
+    background-color: #FFB300;
+    color: #235A26;
+    border-radius: 100px;
+    border: none;
+    height:52px; width: 110px;
+}
+td{
+    font-family: "Russo One", sans-serif;
+    color: #235A26;
+    font-size: 24px;
+}
+.pesquisa{
+    color: #235A26;
+    font-family: "Russo One", sans-serif;
+    width: 333px;
+    height: 65px;
+    border-radius: 20px;
+    border: none;
+    margin: auto;
+    position: relative;
+    left: 10%; 
+    font-size: 20px;
+}
+.teste {
+    margin: auto;
+    display: inline-block;
+    vertical-align: middle;
+    }
+img {
+    vertical-align: middle;
+}
+.largura360{
+    width: 360px;
+}
+.loc{
+    background-color: transparent;
+    border: none;
+    position: relative;
+    left: 1%;
+}
+#alinhamento{
+    text-align: right;
+}
+.login{
+    position: relative;
+    right: 30%;
+    background-color: transparent;
+    border: none;
+}
+.cor{
+    color: white;
+    text-decoration: none;
+}
+.cor2{
+    color: #235A26;
+    text-decoration: none;
+}
+.amarelo{
+    background-color: #FFB300;
+}
+
+#fundoBranco{
+    background: white;
+}
+.verde{
+    background-color: #388E3C;
+}
+.login2{
+    position: relative;
+    left: 60%;
+    background-color: transparent;
+    border: none;
+}
+.teste2 {
+    margin: auto;
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    left: 60%;
+}
+.loc2{
+    background-color: transparent;
+    border: none;
+    position: relative;
+    left: 60%;
+}
+.tamanhoImagem{
+    height: 180px;
+    width: 180px;
+}
+#btnCompra{
+    position: relative;
+    left: 30%;
+}
+#btnTamanho{
+    height:52px; width: 110px;
+}
+.login3{
+    position: relative;
+    left: 20%;
+    background-color: transparent;
+    border: none;
+}
+.teste3{
+    margin: auto;
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    left: 20%;
+}
+.loc3{
+    background-color: transparent;
+    border: none;
+    position: relative;
+    left: 20%;
+}
+#pesquisa{
+    color: #235A26;
+    font-family: "Russo One", sans-serif;
+    width: 1398px;
+    height: 65px;
+    border-radius: 20px;
+    font-size: 20px;
+}
+.altura60{
+    height: 60px;
+}
+.altura360{
+    height: 360px;
+}
+#img{
+    text-align: center;
+}
+.vendedorBtn{
+    background-color: #FFB300;
+    color: #235A26;
+    border-radius: 100px;
+    border: none;
+    height: 52px;
+    width: 530px;
+}
+.fundoVerde{
+    background-color: #388E3C;
+}
+.corFonte{
+    color: #FFB300;
+    vertical-align: top;
+}
+#alinhamento2{
+    text-align: center;
+    vertical-align: top;
+}
+.borda1{
+    border-radius: 20px 20px 0px 0px;
+}
+.borda2{
+    border-radius: 0px 0px 20px 20px;
+}
+.borda{
+    border-radius: 20px;
+    text-align: center;
+    height: 600px;
+    width: 1300px;
+}
+.alinhamento{
+    margin-left: 10%;
+}
+.login4{
+    position: relative;
+    left: 1%;
+    background-color: transparent;
+    border: none;
+}
+.teste4{
+    margin: auto;
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    left: 5%;
+}
+.loc4{
+    background-color: transparent;
+    border: none;
+    position: relative;
+    left: 5%;
+}
+.alinhamentoV{
+    vertical-align: middle;
+}
+.campotxt{
+    color: #235A26;
+    font-family: "Russo One", sans-serif;
+    width: 333px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+    margin: auto;
+}
+.cor3{
+    color: white;
+    text-decoration: none;
+}
